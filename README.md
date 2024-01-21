@@ -13,3 +13,13 @@
 （4）查。通过成员函数实现，使用kmp算法。
 
 （5）数字转字符串。通过重载=实现。
+
+# 编译方法
+
+```cmd
+mkdir build
+cd build
+cmake ..
+cmake --build .
+```
+
